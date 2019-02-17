@@ -1,54 +1,33 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Muahamad Abdurahman's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Muhamad Abdurahman
+Computer Science Student, Data Science Enthusiast.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+aabccd021@gmail.com | +6285221581840 | line ID : aab_ccd
 </div>
 
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`July 2017 - June 2021 (Expected)`
+__Universitas Indonesia__
+- Bachelor of Computer Science
 
 
+## Work Experience
 
-## Awards
+`February 2018 - Current`
+__Teaching Assistant for Course Database__, Fasilkom UI
+- Help students whenever they have difficulities in the course
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
+`December 2018 - February 2019`
+__Mobile Engineer Intern__, Biido.id
+- Created Biido.id mobile application using Flutter
 
 
 ## Publications
